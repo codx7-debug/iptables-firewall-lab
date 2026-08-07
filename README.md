@@ -58,6 +58,10 @@ A hands-on home lab demonstrating **Linux firewall configuration using iptables*
 ---
 
 ## ✅ Results
+**main-lab:**
+<div align="center">
+   <img src="screenshoots/main-lab.png" width="600" alt="main lab">
+   </div>
 
 **1. Basic reachability confirmed through the firewall's external interface:**
 
