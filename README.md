@@ -62,13 +62,13 @@ A hands-on home lab demonstrating **Linux firewall configuration using iptables*
 **1. Basic reachability confirmed through the firewall's external interface:**
 
 <div align="center">
-<img src="screenshots/Ping-success-through-firewall.png" width="600" alt="Ping success through firewall">
+<img src="screenshoots/Ping-success-through-firewall.png" width="600" alt="Ping success through firewall">
 </div>
 
 **2. Forwarded HTTP traffic successfully reaches the public-facing server:**
 
 <div align="center">
-<img src="screenshots/metasploitable-success.png" width="700" alt="Metasploitable loaded through firewall">
+<img src="screenshoots/metasploitable-success.png" width="700" alt="Metasploitable loaded through firewall">
 </div>
 
 > Traffic from the external network reached the designated public-facing server (Metasploitable, port 80) **only**, while all other paths remained blocked by the default-deny `FORWARD` policy — proving the segmentation model works as designed.
