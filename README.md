@@ -62,7 +62,7 @@ A hands-on home lab demonstrating **Linux firewall configuration using iptables*
 **1. Basic reachability confirmed through the firewall's external interface:**
 
 <div align="center">
-<img src="screenshots/ping-success.png" width="600" alt="Ping success through firewall">
+<img src="screenshots/Ping-success-through-firewall.png" width="600" alt="Ping success through firewall">
 </div>
 
 **2. Forwarded HTTP traffic successfully reaches the public-facing server:**
